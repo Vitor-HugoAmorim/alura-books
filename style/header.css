@@ -46,4 +46,8 @@ display: block;
 
 .lista-menu-link {
     background: var (-- azul-degrade);
-    _web
+    _webkit-background-clip: text;
+    -web-text-fill-color: transparent;
+    backgroun-clip: text;
+    text-transform: uppercase;
+}
