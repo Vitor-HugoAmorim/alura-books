@@ -39,3 +39,11 @@ display: block;
     padding: 1em;
     background-color: var(-- branco);
 }
+
+.lista-menu-titulo {
+    color; var (-- laranja);
+}
+
+.lista-menu-link {
+    background: var (-- azul-degrade);
+    _web
