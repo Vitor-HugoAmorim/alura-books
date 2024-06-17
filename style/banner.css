@@ -1,1 +1,6 @@
-
+.banner {
+  background-color: var (--azul-degrade);
+  color:  var (--branco);
+  text-align: center;
+  paddiing: 2.5 cm 2 em;
+  
