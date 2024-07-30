@@ -38,3 +38,28 @@
 
 }
 
+
+.card-botoes {
+  display: flex;
+  justify-content: space-between;
+}
+
+.botoes { 
+display: flex;
+}
+
+.descricao-titulo {
+  color:var (--laranja);
+  font-weight:700;
+}
+
+.descricao-titulo-livro {
+  color:var (--azul);
+  font-size:18 px;
+  font-weght:700;
+  margin:0.5 em 0;
+}
+
+.descricao-texto {
+  font-size:14 px;
+}
