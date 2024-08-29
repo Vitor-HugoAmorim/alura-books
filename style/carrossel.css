@@ -86,3 +86,8 @@ hr{
   background-color:var (--branco);
   padding: 1 em;
 }
+.swiper-button_prev,
+.swiper-button-next {
+ display: block;
+top: 60%;
+}
